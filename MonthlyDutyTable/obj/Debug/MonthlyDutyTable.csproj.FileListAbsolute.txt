@@ -1,0 +1,5 @@
+C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\bin\Debug\MonthlyDutyTable.exe.config
+C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\bin\Debug\MonthlyDutyTable.exe
+C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\bin\Debug\MonthlyDutyTable.pdb
+C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\obj\Debug\MonthlyDutyTable.exe
+C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\obj\Debug\MonthlyDutyTable.pdb
