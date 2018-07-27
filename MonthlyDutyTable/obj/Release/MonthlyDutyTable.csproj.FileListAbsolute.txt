@@ -1,6 +1,0 @@
-C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\bin\Release\MonthlyDutyTable.exe.config
-C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\bin\Release\MonthlyDutyTable.exe
-C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\bin\Release\MonthlyDutyTable.pdb
-C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\obj\Release\MonthlyDutyTable.exe
-C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\obj\Release\MonthlyDutyTable.pdb
-C:\Users\Yuval\Programming\CSharp\MonthlyDutyTable\MonthlyDutyTable\obj\Release\MonthlyDutyTable.csprojResolveAssemblyReference.cache
